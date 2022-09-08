@@ -1,0 +1,6 @@
+email.filename
+email.subject
+email.dst
+email.src
+source.ip
+destination.ip

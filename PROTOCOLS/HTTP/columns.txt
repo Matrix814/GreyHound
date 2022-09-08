@@ -1,0 +1,4 @@
+http.useragent
+source.ip
+destination.ip
+http.uri

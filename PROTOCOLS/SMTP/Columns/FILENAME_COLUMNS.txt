@@ -1,0 +1,4 @@
+source.ip
+email.src
+destination.ip
+email.filename

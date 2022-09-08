@@ -1,0 +1,11 @@
+protocol : http
+source.ip : *
+http.useragent : *
+NOT http.useragent : SXL\/3.1
+NOT http.useragent : Mozilla\/5.0*
+NOT http.useragent : Microsoft WinRM Client
+NOT http.useragent : Opera\/*
+NOT http.useragent : Windows-Update-Agent*
+NOT http.useragent : Microsoft-CryptoAPI\/*
+NOT http.useragent : Microsoft*WinRM*Client*
+NOT http.useragent : Mozilla\/4.0*
