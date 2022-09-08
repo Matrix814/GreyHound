@@ -1,0 +1,4 @@
+source.ip
+source.port
+destination.port
+protocol
